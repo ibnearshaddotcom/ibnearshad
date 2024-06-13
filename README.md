@@ -1,24 +1,143 @@
-# 💫 About Me:
-Roboticist<br>Web Developer<br>Robotics Champion<br>National Team Representative<br>Innovative Computer Science Scholar<br><br>Dedicated Computer Science enthusiast with achievements in prestigious competitions and entrepreneurship. Proficient in C, C++, HTML, CSS, JavaScript, Arduino IDE, and VS Code , with creative skills in editing. Ambition is to bridge technology with business for positive social impact.<br>What I'm Doing<br><br>Managing<br>A digital community MIND EXPANDERS dedicated to elevating minds and fostering personal growth.<br><br>Web Development<br>Designing and making professional website for digital community MIND EXPANDERS.<br><br>Robotics Projects<br>Making professional robotics projects for competitions and exhibitions.<br><br>Video Editing<br>Making professional video edits for various organisations.
+<h1 align="left">Greetings! 👋 I'm MUHAMMAD,</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibnearshaddotcom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibnearshaddotcom) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/MUHAMMAD-3237?ch=10&oid=2013676090&share=f3715dd2&srid=hQH5bB&target_type=user) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ibnearshad1809) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ibnearshaddotcom) 
+<img align="right" height="200" src="https://ibnearshad.com/assets/images/avatars/my-avatar.png"  />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibnearshaddotcom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibnearshaddotcom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnearshaddotcom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibnearshaddotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">A forward-thinking Computer Science scholar with a knack for robotics, front-end web development, graphic design, and video editing. My journey includes representing the national team at the International Mathematical Olympiad (IMO). I thrive on exploring the depths of Computer Science, evident through my participation in esteemed competitions and entrepreneurial ventures. As the Founder and CEO of MIND EXPANDERS and a Co-founder at Lockism, I blend technical prowess with business acumen. My expertise spans languages like C, C++, HTML, CSS, and JavaScript, alongside tools such as Arduino IDE and VS Code. Additionally, I wield creative flair in graphic design using Canva and Photoshop, as well as proficient video editing skills with DaVinci Resolve and CapCut PC. Driven by the vision to integrate technology with commerce for societal good, I aspire to make a positive impact through innovation.</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ibnearshaddotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="left">💫 What I'm Doing,</h1>
 
----
+###
+
+<p align="left">🎓 I’m currently working as a Founder & CEO at Mind Expanders (www.mindexpanders.org)<br>🌱 I’m currently learning Frontend Web Development<br>🤖 I’m currently working on Robo War Robot<br>🔒 I’m currently working as a Co-Founder at Lockism (lockism.tech)<br>🎨 Doing Graphic Designing and Video Editing for various Organizations.<br>💬 Ask me about Anything related to Robotics or Frontend Web Dev<br>👨‍💻 Step into My World at https://ibnearshad.com/<br>📝 I regularly write articles at ibnearshad.com<br>📄 Know about my experiences https://ibnearshad.com/<br>📫 How to reach me? Email at ibnearshad.com@gmail.com<br>⚡ Fun fact I love making Robots</p>
+
+###
+
+<h1 align="left">📊 My GitHub Stats,</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ibnearshaddotcom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnearshaddotcom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnearshaddotcom&radius=16&theme=dracula&area=true&order=5&custom_title=My%20Contributions%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ibnearshaddotcom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ibnearshaddotcom/ibnearshaddotcom/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left">💻 Tech Stacks I Know,</h1>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+###
+
+<h1 align="left">🎶 My Music Interests,</h1>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31a6rnjls36cs443uy343lj7qlem">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a6rnjls36cs443uy343lj7qlem&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h1 align="left">🌐 My Socials,</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ibnearshaddotcom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ibnearshaddotcom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ibnearshaddotcom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/ibnearshaddotcom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/ibnearshaddotcom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="mailto:ibnearshad.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
