@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 I’m currently working as a Founder & CEO at Mind Expanders (hwww.mindexpanders.org)<br>🌱 I’m currently learning Frontend Web Development<br>🤖 I’m currently working on Robo War Robot<br>🔒 I’m currently working as a Co-Founder at Lockism (lockism.tech)<br>🎨 Doing Graphic Designing and Video Editing for various Organizations.<br>💬 Ask me about Anything related to Robotics or Frontend Web Dev<br>👨‍💻 Step into My World at https://ibnearshad.com/<br>📝 I regularly write articles at ibnearshad.com<br>📄 Know about my experiences https://ibnearshad.com/<br>📫 How to reach me? Email at ibnearshad.com@gmail.com<br>⚡ Fun fact I love making Robots</p>
+<p align="left">🎓 I’m currently working as a Founder & CEO at [Mind Expanders](https://www.mindexpanders.org/)<br>🌱 I’m currently learning Frontend Web Development<br>🤖 I’m currently working on [Robo War Robot](https://ibnearshad.com/)<br>🔒 I’m currently working as a Co-Founder at [Lockism](https://lockism.tech/)<br>🎨 Doing Graphic Designing and Video Editing for various Organizations.<br>💬 Ask me about Anything related to Robotics or Frontend Web Dev<br>👨‍💻 Step into My World at https://ibnearshad.com/<br>📝 I regularly write articles at [ibnearshad.com](https://ibnearshad.com/)<br>📄 Know about my experiences [ibnearshad.com](https://ibnearshad.com/)<br>📫 How to reach me? Email at [ibnearshad.com@gmail.com](mailto:ibnearshad.com)<br>⚡ Fun fact I love making Robots</p>
 
 ###
 
