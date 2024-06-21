@@ -29,9 +29,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=ibnearshaddotcom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h1 align="left">💻 Tech Stacks I Know,</h1>
-
-###
+    ###
+    <h1 align="left">💻 Techs I Know,</h1>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -56,19 +55,29 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-canva-9234654-7516879.png?f=webp" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F69257cb2-1b88-4d76-ae6b-5ef6469d1a23&w=384&q=75" height="40" alt="github desktop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/firebase/images/touchicon-180.png" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" height="40" alt="play console logo"  />
+  <img width="12" />
+  <img src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Amazon-512.png" height="40" alt="amazone store logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_analytics_logo_icon_171061.png" height="40" alt="analytics logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
@@ -84,6 +93,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/namecheap-icon-2048x2048-ft2h6a21.png" height="40" alt="googlecloud logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
@@ -93,6 +104,11 @@
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://icon-icons.com/icons2/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" height="40" alt="divenci logo"  />
+  <img width="12" />
+  <img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" height="40" alt="capcut logo"  />
+
 </div>
 
 ###
