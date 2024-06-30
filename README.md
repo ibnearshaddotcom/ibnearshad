@@ -29,8 +29,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=ibnearshaddotcom&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-    ###
-    <h1 align="left">💻 Techs I Know,</h1>
+###
+
+<h1 align="left">💻 Technologies I Know,</h1>
+
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
